@@ -1,3 +1,3 @@
 # odin-recipes
 
-This repository is for my 'Odin Project' projects.
+This repository is for my 'The Odin Project' projects.
